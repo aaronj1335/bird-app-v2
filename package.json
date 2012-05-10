@@ -1,0 +1,17 @@
+{
+  "name": "app_v2",
+  "description": "the new hotness in aviary appification",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.11"
+  },
+  "dependencies": {
+      "csi": "0.0.x",
+      "put-a-bird-on-it": "git://github.com/aaronj1335/put-a-bird-on-it.git"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
