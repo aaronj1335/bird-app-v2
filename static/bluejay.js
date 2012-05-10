@@ -1,5 +1,5 @@
 define([
-    'path!bird:'
+    'path!bird'
 ], function(birdifyIt) {
     return function(node) {
         var childNodes;
