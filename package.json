@@ -9,9 +9,8 @@
     "node": "~0.6.11"
   },
   "dependencies": {
-      "siq-vendor-js": "0.0.x",
-      "csi": "0.0.x",
-      "put-a-bird-on-it": "git://github.com/aaronj1335/put-a-bird-on-it.git"
+    "csi": "0.0.x",
+    "put-a-bird-on-it": "git://github.com/aaronj1335/put-a-bird-on-it.git"
   },
   "devDependencies": {},
   "optionalDependencies": {}
